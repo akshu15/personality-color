@@ -2,6 +2,8 @@
 
 A fun interactive personality quiz based on the four-color behavioral model from Thomas Erikson's book "Surrounded by Idiots".
 
+**[Try the quiz!](https://akshu15.github.io/personality-color/)**
+
 ## 🎨 The Four Color Personalities
 
 - **Red**: Decisive, competitive leaders who value results
